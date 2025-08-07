@@ -1,0 +1,1 @@
+# slidegeek-nextauth-amplify
